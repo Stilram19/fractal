@@ -23,11 +23,7 @@ resolving issues in graphical programs, ensuring smooth operation.
 
 ![](resources/my_project.png)
 
-<video width="640" height="360" controls>
-  <source src="resources/juliaSet.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+[](resources/juliaSet.mp4)
 
 ## Installation and Usage
 
