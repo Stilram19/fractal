@@ -23,7 +23,11 @@ resolving issues in graphical programs, ensuring smooth operation.
 
 ![](resources/my_project.png)
 
-![](resources/juliaSet.mp4)
+<video width="640" height="360" controls>
+  <source src="resources/juliaSet.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ## Installation and Usage
 
@@ -67,4 +71,3 @@ This project was built first time in mac, using the mlx 42 libarary (macos versi
 - [Julia Set](https://en.wikipedia.org/wiki/Julia_set)
 - [Julia Set](https://en.wikipedia.org/wiki/Julia_set)
 - [Computer Graphics](https://en.wikipedia.org/wiki/Computer_graphics_(computer_science))
-- []
