@@ -27,8 +27,6 @@ resolving issues in graphical programs, ensuring smooth operation.
 
 ![](resources/my_project.png)
 
-https://github.com/Stilram19/fractal/issues/1#issue-2255041495
-
 ## Installation and Usage
 
 This project was built first time in mac, using the mlx 42 libarary (macos version), but was translated to SDL since the linux mlx version isn't responding to user input (Keyboard, Mouse).
