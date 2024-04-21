@@ -1,10 +1,11 @@
 # 42_FRACTAL
 
+![](resources/about_project.png)
+
 ## About
 
 This project aims to create visually striking fractals such as the Mandelbrot and Julia sets. It was my first adventure in graphics projects of the 42 common core curriculum. Here is the link to the [subject](https://cdn.intra.42.fr/pdf/pdf/121932/en.subject.pdf)
 
-![](resources/about_project.png)
 
 ## Julia Set Preview:
 
