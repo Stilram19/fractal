@@ -36,3 +36,9 @@ fclean: clean
 	${RM} ${NAME}
 
 re: fclean all
+
+julia: all
+	./${NAME} JS0
+
+mandelbrot: all
+	./${NAME} MS1
