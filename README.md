@@ -1,4 +1,4 @@
-# 42_GET_NEXT_LINE
+# 42_FRACTAL
 
 ## About
 
