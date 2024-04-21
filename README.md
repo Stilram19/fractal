@@ -59,13 +59,12 @@ This project was built first time in mac, using the mlx 42 libarary (macos versi
 
 ## Concepts you cannot do without (for students):
 
-- [Data segment](https://en.wikipedia.org/wiki/Data_segment)
-- [memory leaks](https://en.wikipedia.org/wiki/Memory_leak)
-- [I/O Buffers](https://stackoverflow.com/questions/27993971/understanding-buffering-in-c)
-- [static variables](https://www.geeksforgeeks.org/static-variables-in-c/)
-- [stack frame](https://en.wikipedia.org/wiki/Call_stack)
-- [pointers](https://en.wikipedia.org/wiki/Pointer_(computer_programming))  
-- [Endianness](https://en.wikipedia.org/wiki/Endianness)  
-- [Pointer arithmetic](https://www.geeksforgeeks.org/pointer-arithmetics-in-c-with-examples/)  
-- [two's complement](https://en.wikipedia.org/wiki/Two%27s_complement)    
-- [integer promotion](https://www.geeksforgeeks.org/integer-promotions-in-c/)
+- [image memory representation](https://youtu.be/8CuYq3RU7BY?si=4uNmKBcBs7NfgL5R)
+- [RGB coloring model](https://en.wikipedia.org/wiki/RGB_color_model)
+- [fractal](https://en.wikipedia.org/wiki/Fractal)
+- [Basics of Complex Numbers](https://en.wikipedia.org/wiki/Complex_number)
+- [Mandelbrot Set](https://en.wikipedia.org/wiki/Mandelbrot_set)
+- [Julia Set](https://en.wikipedia.org/wiki/Julia_set)
+- [Julia Set](https://en.wikipedia.org/wiki/Julia_set)
+- [Computer Graphics](https://en.wikipedia.org/wiki/Computer_graphics_(computer_science))
+- []
