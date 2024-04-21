@@ -23,7 +23,7 @@ resolving issues in graphical programs, ensuring smooth operation.
 
 ![](resources/my_project.png)
 
-![](resources/juliaSet.mp4)
+![](https://github.com/Stilram19/fractal/issues/1#issue-2255041495)
 
 ## Installation and Usage
 
