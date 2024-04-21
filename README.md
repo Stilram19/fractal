@@ -49,6 +49,7 @@ This project was built first time in mac, using the mlx 42 libarary (macos versi
     ```
 
 3. Compile and Run the program:
+
    To make the program render Julia Set (Move the mouse and let the magic happen):
    ``` bash
    make julia
