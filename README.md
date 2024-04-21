@@ -6,6 +6,10 @@ This project aims to create visually striking fractals such as the Mandelbrot an
 
 ![](resources/about_project.png)
 
+## Julia Set Preview:
+
+https://github.com/Stilram19/fractal/assets/115463108/75be481e-1ec3-4c78-8102-b8df0529d8bd
+
 ## What I learned from this project:
 
 During the development of this project, I've learned several important concepts including:
