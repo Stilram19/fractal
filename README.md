@@ -21,6 +21,8 @@ resolving issues in graphical programs, ensuring smooth operation.
 
 # my_42_project
 
+![](resources/my_project.png)
+
 https://github.com/Stilram19/fractal/issues/1#issue-2255041495
 
 ## Installation and Usage
